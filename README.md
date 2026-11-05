@@ -81,4 +81,3 @@ Based on the Module 1 and Module 2 assignments ("Automatic Code Review" and "Add
 ## Author
 
 **Niharika Dhapola**
-[LinkedIn](https://www.linkedin.com/in/niharika-db/) · [GitHub](https://github.com/niharikadhapola)
